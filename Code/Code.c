@@ -1,4 +1,4 @@
-// C language//
+// C language //
 #include <stdio.h>
 
 int main()
