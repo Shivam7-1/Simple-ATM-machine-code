@@ -4,6 +4,6 @@
 
 2.After This Take Code From Code Folder.
 
-3 Then Copy This Code And Paste it into your IDE.
+3.Then Copy This Code And Paste it into your IDE.
 
-4 Run This code.
+4.Run This code.
