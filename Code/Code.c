@@ -5,7 +5,7 @@ int main()
 {
     unsigned long amount=10000, deposit, withdraw;
 int choice, pin, k;
-char transaction ='y';
+char transaction ='y'; // define char value//
    printf("               *****WELCOME TO ATM MACHINE*****        \n\n");
 	while (pin != 0001)
 	{
