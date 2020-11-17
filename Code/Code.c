@@ -3,7 +3,7 @@
 
 int main()
 {
-    unsigned long amount=10000, deposit, withdraw;
+    unsigned long amount=10000, deposit, withdraw; // unsigned values //
 int choice, pin, k;
 char transaction ='y';
    printf("               *****WELCOME TO ATM MACHINE*****        \n\n");
